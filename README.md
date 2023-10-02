@@ -5,7 +5,9 @@
 
 💬 Email - junstin119@gmail.com <br>
 🔭 Profile - [junstin.notion.site/68e463fee882498cb424226dff3447ed?pvs=4](https://junstin.notion.site/68e463fee882498cb424226dff3447ed) <br>
-🌱 Github - https://github.com/J-unStiN/J-unStiN
+🌱 Github - https://github.com/J-unStiN/J-unStiN <br>
+📫 Blog - 개발중
+
 
 <br>
 <br>
