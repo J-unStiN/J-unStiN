@@ -1,6 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=270&color=auto&text=JunStiN)
+![header](https://capsule-render.vercel.app/api?type=Waving&height=270&color=fff68c&text=JunStiN)
 
 ### Hi there 👋
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-unStiN&show_icons=true&theme=radical)
 
 <!--
 **J-unStiN/J-unStiN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
