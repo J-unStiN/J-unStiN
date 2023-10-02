@@ -1,5 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=270&color=auto&text=👋Welcome%20to%20JunStiN)
 
+<br>
+<br>
+
+💬 Email - junstin119@gmail.com <br>
+🔭 Profile - [junstin.notion.site/68e463fee882498cb424226dff3447ed?pvs=4](https://junstin.notion.site/68e463fee882498cb424226dff3447ed) <br>
+🌱 Github - https://github.com/J-unStiN/J-unStiN
+
+<br>
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-unStiN&show_icons=true&theme=radical)
 
