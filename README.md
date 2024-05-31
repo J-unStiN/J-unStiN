@@ -12,8 +12,7 @@
 <br>
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-unStiN)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=J-unStiN&show_icons=true&theme=radical)
 
 
 
